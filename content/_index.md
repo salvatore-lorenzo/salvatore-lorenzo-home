@@ -172,17 +172,17 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-  #- block: collection
-  #  id: featured
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    columns: '2'
-  #    view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -217,8 +217,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: salvatore.lorenzo@unipa.it
       phone: '+3909123891721'
