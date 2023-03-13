@@ -1,34 +1,36 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Salvatore Lorenzo
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Salvatore
+last_name: Lorenzo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor in Physics of Matter
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Università degli studi di Palermo
+    url: https://www.unipa.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include open quantum systems dynamics, quantum optics, Quantum Information, quantum thermodynamics and quantum machine learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Open quantum systems
+  - Quantum Optics
+  - Quantum Information
+  - Quantum Thermodynamics
+  - Quantum Machine Learning
 
 # Education to show in About widget
 education:
@@ -77,8 +79,8 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Salvatore Lorenzo is a professor of physics of matter at the Physics and Chemistry department of University of Palermo. His research interests include open quantum systems dynamics, quantum optics, Quantum Information, quantum thermodynamics and quantum machine learning.
 {style="text-align: justify;"}
