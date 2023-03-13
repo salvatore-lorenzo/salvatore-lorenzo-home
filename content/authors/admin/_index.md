@@ -35,8 +35,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Physics and Quantum Technologies
+      institution: Università degli studi della Calabria
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
@@ -52,22 +52,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'mailto:salvatore.lorenzo@unipa.it'
+  - icon: orcid
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://orcid.org/0000-0002-0827-5549
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.it/citations?hl=it&user=7yawE9gAAAAJ
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/a/lorenzo_s_1.html
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/salvatore-lorenzo-2410a2260
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
