@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: Mr Robot
-  theme_night: Mr Robot
-  font: Mr Robot
+  theme_night: Heart
+  font: Minimal
   font_size: M
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Salvatore Lorenzo Home Page'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -64,7 +64,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
