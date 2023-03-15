@@ -62,6 +62,9 @@ social:
   - icon: arxiv
     icon_pack: ai
     link: https://arxiv.org/a/lorenzo_s_1.html
+  - icon: researcherid
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/P-6394-2014
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/salvatore-lorenzo-2410a2260
@@ -70,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv_eng.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
