@@ -80,6 +80,8 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+design:
+    columns: '2'
 ---
 
 Salvatore Lorenzo is a professor of physics of matter at the Physics and Chemistry department of University of Palermo. His research interests include open quantum systems dynamics, quantum optics, Quantum Information, quantum thermodynamics and quantum machine learning.
