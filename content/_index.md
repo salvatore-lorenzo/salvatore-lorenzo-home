@@ -36,6 +36,8 @@ sections:
           description: 20%
           icon: guitar
           icon_pack: fas
+      design:
+        columns: '1'
   #- block: experience
   #  content:
   #    title: Experience
@@ -133,10 +135,6 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
   #- block: portfolio
   #  id: projects
   #  content:
@@ -182,7 +180,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: comapct
   - block: collection
     content:
       title: Recent Publications
