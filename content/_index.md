@@ -174,7 +174,7 @@ sections:
     id: featured
     content:
       title: Featured Publications
-      subtitle: (scroll down to see the complete list)
+      subtitle: ([complete list](./publication/))
       filters:
         folders:
           - publication
@@ -184,6 +184,7 @@ sections:
       view: card
   - block: collection
     content:
+      id: recent
       title: Recent Publications
       text: |-
         {{% callout note %}}
