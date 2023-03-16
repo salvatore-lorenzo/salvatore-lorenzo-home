@@ -180,7 +180,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: comapct
+      view: card
   - block: collection
     content:
       title: Recent Publications
@@ -194,7 +194,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
   #- block: collection
   #  id: talks
   #  content:
