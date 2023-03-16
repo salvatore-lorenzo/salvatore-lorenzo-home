@@ -14,8 +14,8 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2023-03-15T00:12:09+01:00
-featured: true
+lastmod: 2023-03-16T16:26:05+01:00
+featured: false
 draft: false
 
 # Featured image
@@ -24,9 +24,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: true
-
-url_pdf: https://arxiv.org/pdf/2109.13255
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -34,7 +32,7 @@ url_pdf: https://arxiv.org/pdf/2109.13255
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-14T23:12:09.451756Z'
+publishDate: '2023-03-16T15:26:04.943475Z'
 publication_types:
 - '2'
 abstract: Photon-mediated interaction between quantum emitters in engineered photonic
@@ -57,13 +55,6 @@ abstract: Photon-mediated interaction between quantum emitters in engineered pho
   findings introduce a paradigm of light-mediated interactions with unprecedented
   features such as non-reciprocity, non-trivial dependence on field boundary conditions,
   and range tunability via a loss rate.
-
-abstract_short: Photon-mediated interaction between quantum emitters in engineered photonic
-  baths is an emerging area of quantum optics. At the same time, non-Hermitian (NH)
-  physics is currently thriving, spurred by the exciting possibility to access new
-  physics ...
-
 publication: '*Optica*'
-publication_short: "abbreviated publication details"
 doi: 10.1364/OPTICA.443955
 ---

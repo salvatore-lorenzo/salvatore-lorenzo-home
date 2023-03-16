@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2023-03-15T00:12:09+01:00
+lastmod: 2023-03-16T16:26:04+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-14T23:12:09.049597Z'
+publishDate: '2023-03-16T15:26:04.579621Z'
 publication_types:
 - '2'
 abstract: We analyze the non-Markovian character of the dynamics of an open two-level

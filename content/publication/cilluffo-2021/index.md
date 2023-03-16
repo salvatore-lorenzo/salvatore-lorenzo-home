@@ -20,7 +20,7 @@ tags:
 - Quantum trajectories
 categories: []
 date: '2021-01-01'
-lastmod: 2023-03-15T00:12:06+01:00
+lastmod: 2023-03-16T16:26:01+01:00
 featured: false
 draft: false
 
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-14T23:12:06.376652Z'
+publishDate: '2023-03-16T15:26:01.482437Z'
 publication_types:
 - '2'
 abstract: We develop a microscopic theory for biasing the quantum trajectories of

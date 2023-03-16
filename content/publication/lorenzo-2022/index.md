@@ -17,8 +17,8 @@ tags:
 - quantum synchronization
 categories: []
 date: '2022-01-01'
-lastmod: 2023-03-15T00:12:08+01:00
-featured: true
+lastmod: 2023-03-16T16:26:04+01:00
+featured: false
 draft: false
 
 # Featured image
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-14T23:12:08.485186Z'
+publishDate: '2023-03-16T15:26:03.856322Z'
 publication_types:
 - '2'
 abstract: We study the emergence of synchronisation in a chiral network of harmonic

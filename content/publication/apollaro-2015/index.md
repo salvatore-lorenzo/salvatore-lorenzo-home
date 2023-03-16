@@ -18,7 +18,7 @@ tags:
 - quantum state transfer
 categories: []
 date: '2015-01-01'
-lastmod: 2023-03-15T00:12:04+01:00
+lastmod: 2023-03-16T16:26:00+01:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-14T23:12:04.766257Z'
+publishDate: '2023-03-16T15:25:59.805117Z'
 publication_types:
 - '1'
 abstract: The transfer of an unknown quantum state, from a sender to a receiver, is

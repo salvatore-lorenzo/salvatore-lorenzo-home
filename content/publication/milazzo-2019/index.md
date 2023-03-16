@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2023-03-15T00:12:08+01:00
+lastmod: 2023-03-16T16:26:04+01:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-14T23:12:08.673553Z'
+publishDate: '2023-03-16T15:26:04.033084Z'
 publication_types:
 - '2'
 abstract: Quantum Darwinism attempts to explain the emergence of objective reality
