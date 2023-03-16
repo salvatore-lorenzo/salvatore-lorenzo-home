@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2023-03-16T15:26:02.029044Z'
 publication_types:
-- '0'
+- '3'
 abstract: We provide a new perspective on shadow tomography by demonstrating its deep
   connections with the general theory of measurement frames. By showing that the formalism
   of measurement frames offers a natural framework for shadow tomography -- in which

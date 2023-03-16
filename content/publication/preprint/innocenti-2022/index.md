@@ -35,7 +35,7 @@ image:
 projects: []
 publishDate: '2023-03-16T15:26:01.849998Z'
 publication_types:
-- '0'
+- '3'
 abstract: Quantum reservoir computers (QRC) and quantum extreme learning machines
   (QELM) aim to efficiently post-process the outcome of fixed -- generally uncalibrated
   -- quantum devices to solve tasks such as the estimation of the properties of quantum

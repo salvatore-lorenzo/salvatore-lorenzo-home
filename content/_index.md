@@ -174,6 +174,7 @@ sections:
     id: featured
     content:
       title: Featured Publications
+      subtitle: (scroll down to see the complete list)
       filters:
         folders:
           - publication
@@ -193,8 +194,8 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      view: list
   #- block: collection
   #  id: talks
   #  content:

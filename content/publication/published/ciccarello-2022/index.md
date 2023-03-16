@@ -22,7 +22,7 @@ tags:
 categories: []
 date: '2022-01-01'
 lastmod: 2023-03-16T16:26:01+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -61,4 +61,7 @@ abstract: 'We present an extensive introduction to quantum collision models (CMs
   Schrödinger equation.'
 publication: '*Physics Reports*'
 doi: 10.1016/j.physrep.2022.01.001
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2106.11974
 ---

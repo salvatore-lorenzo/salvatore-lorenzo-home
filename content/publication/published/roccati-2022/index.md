@@ -15,7 +15,7 @@ tags: []
 categories: []
 date: '2022-01-01'
 lastmod: 2023-03-16T16:26:05+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -57,4 +57,7 @@ abstract: Photon-mediated interaction between quantum emitters in engineered pho
   and range tunability via a loss rate.
 publication: '*Optica*'
 doi: 10.1364/OPTICA.443955
+links:
+- name: PDF
+  url: https://opg.optica.org/optica/viewmedia.cfm?uri=optica-9-5-565&seq=0
 ---

@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-03-16T15:26:04.402735Z'
 publication_types:
-- '0'
+- '3'
 abstract: We study the dynamics of a pair of optomechanical systems interacting dissipatively
   with a wave guide in a unidirectional way. We investigate the behaviour of both
   classical and quantum correlations established between the two mechanical modes

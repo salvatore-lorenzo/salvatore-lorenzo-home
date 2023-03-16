@@ -38,7 +38,7 @@ image:
 projects: []
 publishDate: '2023-03-16T15:25:59.805117Z'
 publication_types:
-- '1'
+- '2'
 abstract: The transfer of an unknown quantum state, from a sender to a receiver, is
   one of the main requirements to perform quantum information processing (QIP) tasks.
   In this respect, the state transfer of a single qubit by means of spin chains has
