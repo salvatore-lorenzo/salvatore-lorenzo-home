@@ -27,6 +27,7 @@ marketing:
     google: 'G-RK88ZLT87K'
     baidu: ''
 
+opengraph_io_api_key: "897f23ca-8366-4d0a-82ff-8cc37c875d94"
 # Site header
 
 header:
@@ -72,7 +73,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: square
   comment:
     provider: ''

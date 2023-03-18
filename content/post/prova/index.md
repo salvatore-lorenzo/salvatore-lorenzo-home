@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Prova"
+title: "Bosonic Qiskit Package"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< og-summary "https://medium.com/qiskit/introducing-bosonic-qiskit-a-package-for-simulating-bosonic-and-hybrid-qubit-bosonic-circuits-1e1e528287bb" >}}
