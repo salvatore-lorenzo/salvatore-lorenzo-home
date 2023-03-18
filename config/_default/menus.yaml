@@ -7,9 +7,9 @@ main:
   - name: Salvatore Lorenzo
     url: '#about'
     weight: 10
-  #- name: Research
-  #  url: '/research'
-  #  weight: 20
+  - name: Research
+    url: '/research'
+    weight: 20
   - name: Post
     url: '#posts'
     weight: 30
