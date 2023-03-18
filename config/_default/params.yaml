@@ -10,7 +10,7 @@ appearance:
   theme_night: Mr Robot
   font: Minimal
   font_size: L
-
+  dark_mode: auto
 # SEO
 
 marketing:
@@ -39,6 +39,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+  #image: "/headers/header_pubs.jpg"
 
 # Site footer
 

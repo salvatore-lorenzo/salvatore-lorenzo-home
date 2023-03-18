@@ -1,10 +1,44 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 
-date: 2022-10-24
+date: 2023-03-18
 type: landing
 
 sections:
+  #block: hero
+  #content:
+  #  title: #Salvatore Lorenzo
+  #  image:
+  #    filename: 
+  #    size: 
+  #  cta:
+  #    label:
+  #    url:
+  #  cta_alt:
+  #    label:
+  #    url: 
+  #  cta_note:
+  #    label:
+  #  text: 
+  #design:
+  #  background:
+  #    image:
+  #      filename: 'header_hero.png'
+  #          # Apply image filters?
+  #      filters:
+  #        # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+  #        brightness: 1
+  #      #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+  #      size: 'cover'
+  #      # Image focal point. Options include `left`, `center` (default), or `right`.
+  #      position: center
+  #      # Use a fun parallax-like fixed background effect on desktop? true/false
+  #      parallax: false
+  #      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+  #      text_color_light: true
+  ##      gradient_end: '#104b86'
+  ##      gradient_start: '#004ba0'
+  ##      text_color_light: true
   - block: v1/about
     id: about
     content:
@@ -12,6 +46,15 @@ sections:
       username: tore
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    design:
+      background:
+        image:
+          filename: 'header_hero.svg'
+          filters:
+            brightness: 0.3
+        #gradient_end: '#1976d2'
+        #gradient_start: '#004ba0'
+        text_color_light: true
   - block: features
     content:
       title: Skills
@@ -37,7 +80,8 @@ sections:
           icon: guitar
           icon_pack: fas
       design:
-        columns: '1'
+        columns: '2'
+  
   #- block: experience
   #  content:
   #    title: Experience
@@ -135,6 +179,13 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
+    design:
+      columns: '1'
+      view: compact
+      background:
+          gradient_end: '#104b86'
+          gradient_start: '#004ba0'
+          text_color_light: true
   #- block: portfolio
   #  id: projects
   #  content:
@@ -196,7 +247,6 @@ sections:
         exclude_featured: true
     design:
       columns: '1'
-      view: list
   #- block: collection
   #  id: talks
   #  content:
