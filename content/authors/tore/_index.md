@@ -76,7 +76,7 @@ social:
     icon_pack: ai
     link: uploads/cv_eng.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'salvatore.lorenzo@unipa.it'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
