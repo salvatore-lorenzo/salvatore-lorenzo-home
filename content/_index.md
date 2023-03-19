@@ -49,38 +49,38 @@ sections:
     design:
       background:
         image:
-          filename: 'header_hero.svg'
+          #filename: 'header_hero.svg'
           filters:
-            brightness: 0.3
+            brightness: 0.8
         #gradient_end: '#1976d2'
         #gradient_start: '#004ba0'
         text_color_light: true
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Mathematica
-          description: 90%
-          icon: laptop-code
-          icon_pack: fas
-        - name: Python
-          description: 80%
-          icon: python
-          icon_pack: fab
-        - name: Linux
-          description: 70%
-          icon: linux
-          icon_pack: fab
-        - name: Fishing
-          description: 40%
-          icon: fish
-          icon_pack: fas
-        - name: Guitar
-          description: 20%
-          icon: guitar
-          icon_pack: fas
-      design:
-        columns: '2'
+  #- block: features
+  #  content:
+  #    title: Skills
+  #    items:
+  #      - name: Mathematica
+  #        description: 90%
+  #        icon: laptop-code
+  #        icon_pack: fas
+  #      - name: Python
+  #        description: 80%
+  #        icon: python
+  #        icon_pack: fab
+  #      - name: Linux
+  #        description: 70%
+  #        icon: linux
+  #        icon_pack: fab
+  #      - name: Fishing
+  #        description: 40%
+  #        icon: fish
+  #        icon_pack: fas
+  #      - name: Guitar
+  #        description: 20%
+  #        icon: guitar
+  #        icon_pack: fas
+  #    design:
+  #      columns: '2'
   
   #- block: experience
   #  content:

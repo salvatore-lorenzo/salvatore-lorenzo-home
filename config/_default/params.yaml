@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: tury
-  theme_night: tury
+  theme_day: minimal
+  theme_night: minimal
   font: Minimal
   font_size: L
   dark_mode: auto
@@ -68,7 +68,7 @@ features:
   math:
     enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content

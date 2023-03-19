@@ -2,24 +2,21 @@
 name = "tury"
 
 [light]
-  # Primary
-  primary = "#050d17"
-
-  # Menu
-  menu_primary = "#050d17"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
-
-  # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+  primary = "#262626"
+  menu_primary = "#ffffff"
+  menu_text = "#262626"
+  menu_text_active = "#666666"
+  menu_title = "#262626"
+  home_section_odd = "#ffffff"
+  home_section_even = "#ffffff"
+  background = "#ffffff"
 
 [dark]
   primary = "#050d17"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  menu_primary = "#050d17"
+  link = "#ffffff"
+  link_hover = "#ffffff"
   background = "#050d17"
   home_section_odd = "#050d17"
   home_section_even = "#050d17"
-  menu_primary = "#050d17"
+  

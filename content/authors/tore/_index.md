@@ -46,6 +46,34 @@ education:
       institution: Università della Calabria 
       url_institution: https://www.unical.it/
       year: 2008
+
+skills:
+  title: skills
+  items:
+    - name: Mathematica
+      description: 90%
+      icon: laptop-code
+      icon_pack: fas
+    - name: Tex
+      description: 90%
+      icon: LaTex
+      icon_pack: fab
+    - name: Python
+      description: 80%
+      icon: python
+      icon_pack: fab
+    - name: Linux
+      description: 70%
+      icon: linux
+      icon_pack: fab
+    - name: Fishing
+      description: 40%
+      icon: fish
+      icon_pack: fas
+    - name: Guitar
+      description: 20%
+      icon: guitar
+      icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -57,8 +85,8 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0827-5549
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.it/citations?hl=it&user=7yawE9gAAAAJ
   - icon: arxiv
     icon_pack: ai

@@ -49,13 +49,17 @@
           {{- end -}}
         </h2>
 
-        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        {{ with $person.role }}
+        <h3>{{ . | markdownify | emojify }}</h3>
+        {{ end }}
 
         {{ range $person.organizations }}
         <h3>
-          {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          {{ with .url }}
+          <a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
           <span>{{ .name }}</span>
-          {{ if .url }}</a>{{ end }}
+          {{ if .url }}</a>
+          {{ end }}
         </h3>
         {{ end }}
       </div>
@@ -131,5 +135,22 @@
       {{ end }}
 
     </div>
+    <div class="row">
+      {{ with $person.skills }}
+      <div class="col-12 col-lg-6" >
+        <div class="section-subheading">{{ "Skills" | markdownify }}</div>  
+          <div class="icon" aria-hidden="true">
+              {{ range .items }}
+                {{ $pack := or .icon_pack "fas" }}
+                {{ $pack_prefix := $pack }}
+                {{ if in (slice "fab" "fas" "far" "fal") $pack }}{{ $pack_prefix = "fa" }}
+                {{ $icon := .icon}}
+                  <div class="{{ $pack }} {{ $pack_prefix }}-{{ $icon }} big-icon"></div>
+                {{ end }}
+              {{ end }}  
+          </div>
+        </div>       
+      </div>
+      {{ end }}
   </div>
 </div>
