@@ -10,7 +10,7 @@ appearance:
   theme_night: tury
   font: Minimal
   font_size: L
-  dark_mode: light
+  dark_mode: false
 # SEO
 
 marketing:
