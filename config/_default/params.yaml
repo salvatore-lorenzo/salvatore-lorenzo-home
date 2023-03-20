@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: tury
-  theme_night: tury
+  theme_night: 
   font: Minimal
   font_size: L
   dark_mode: auto
