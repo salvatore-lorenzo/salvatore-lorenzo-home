@@ -48,13 +48,13 @@ sections:
       text:
     design:
       background:
-        image:
+        #image:
           #filename: 'header_hero.svg'
-          filters:
-            brightness: 0.8
+          #filters:
+            #brightness: 0.
         #gradient_end: '#1976d2'
         #gradient_start: '#004ba0'
-        text_color_light: true
+        text_color_light: false
   #- block: features
   #  content:
   #    title: Skills

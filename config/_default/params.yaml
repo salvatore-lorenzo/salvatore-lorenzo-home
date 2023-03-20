@@ -6,11 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: tury
+  theme_night: tury
   font: Minimal
   font_size: L
-  dark_mode: auto
+  dark_mode: light
 # SEO
 
 marketing:
@@ -36,7 +36,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
   #image: "/headers/header_pubs.jpg"
