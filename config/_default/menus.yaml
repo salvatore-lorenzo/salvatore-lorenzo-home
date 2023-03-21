@@ -11,10 +11,10 @@ main:
     url: '/research'
     weight: 20
   - name: Post
-    url: '#posts'
+    url: './post'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: './publication'
     weight: 40
   - name: Contact
     url: '#contact'
