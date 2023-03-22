@@ -1,5 +1,5 @@
 ---
-title: 'Open Quantum Systems dynamics'
+title: '#### Open Quantum Systems dynamics {style="text-align: center; color: #0080ff"}'
 #date:
 type: landing
 tags: 

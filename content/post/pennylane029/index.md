@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bosonic Qiskit Package"
+title: "Pennylane 0.29"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2023-03-13T23:28:45+01:00
-lastmod: 2023-03-13T23:28:45+01:00
+date: 2023-03-22T22:56:43+01:00
+lastmod: 2023-03-22T22:56:43+01:00
 featured: false
 draft: false
 
@@ -27,4 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-{{< og-summary "https://medium.com/qiskit/introducing-bosonic-qiskit-a-package-for-simulating-bosonic-and-hybrid-qubit-bosonic-circuits-1e1e528287bb" >}}
+{{< og-summary "https://pennylane.ai/blog/2023/03/pennylane-v029-released/" >}}
+

@@ -1,16 +1,16 @@
 ---
-title: '#### Quantum Thermodynamics {style="text-align: center; color: #0080ff"}'
+title: '#### Quantum Machine Learning {style="text-align: center; color: #0080ff"}'
 date: none
 type: landing
 tags:
-  - QT
+  - QML
 # Your landing page sections - add as many different content blocks as you like
 
 sections:
   - block: markdown
     id: QT
     content:
-      title: '## Quantum Thermodynamics (QT)'
+      title: '## Quantum Machine Learning (QML)'
       subtitle: 
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!  
     design:
