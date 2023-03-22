@@ -1,5 +1,5 @@
 ---
-title: Research Liness
+title: Research Lines
 #'type: landing
 
 sections:

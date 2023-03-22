@@ -1,5 +1,5 @@
 ---
-title: Open Quantum Systems dynamics
+title: 'Open Quantum Systems dynamics'
 #date:
 type: landing
 tags: 
@@ -11,8 +11,8 @@ sections:
     id: OQS
     content:
       title: '## Open Quantum Systems (OQS) dynamics'
-      subtitle: 
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! ![image](./featured.png)
+      subtitle: '![](featured.png)'
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       columns: 2
       

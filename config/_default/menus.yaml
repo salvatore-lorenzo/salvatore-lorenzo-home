@@ -7,7 +7,7 @@ main:
   - name: Salvatore Lorenzo
     url: '#about'
     weight: 10
-  - name: Bio & CV
+  - name: Bio
     url: './cv/index.html'
     weight: 20
   - name: Research
