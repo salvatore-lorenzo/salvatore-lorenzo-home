@@ -1,17 +1,18 @@
 ---
-title: Open Quantum Systems (OQS)
-date: none
+title: Open Quantum Systems dynamics
+#date:
 type: landing
-tag: Deep Learning
+tags: 
+  - OQS
 # Your landing page sections - add as many different content blocks as you like
 
 sections:
   - block: markdown
-    #id: section-1
+    id: OQS
     content:
       title: '## Open Quantum Systems (OQS) dynamics'
       subtitle: 
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!  
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code! ![image](./featured.png)
     design:
       columns: 2
       

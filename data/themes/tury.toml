@@ -8,15 +8,15 @@ name = "tury"
   menu_text_active = "#666666"
   menu_title = "#262626"
   home_section_odd = "#ffffff"
-  home_section_even = "#ffffff"
+  home_section_even = "#e6e6e6"
   
 
 [dark]
-  primary = "#050d17"
-  menu_primary = "#050d17"
+  primary = "#262626"
+  menu_primary = "#262626"
   link = "#ffffff"
   link_hover = "#ffffff"
-  background = "#050d17"
-  home_section_odd = "#050d17"
-  home_section_even = "#050d17"
+  background = "#262626"
+  home_section_odd = "#262626"
+  home_section_even = "#595959"
   

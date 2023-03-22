@@ -1,15 +1,16 @@
 ---
-title: Open Quantum Systems (OQS)
+title: Quantum Thermodynamics
 date: none
 type: landing
-
+tags:
+  - QT
 # Your landing page sections - add as many different content blocks as you like
 
 sections:
   - block: markdown
-    #id: section-1
+    id: QT
     content:
-      title: '## Open Quantum Systems (OQS) dynamics'
+      title: '## Quantum Thermodynamics (QT)'
       subtitle: 
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!  
     design:

@@ -55,41 +55,54 @@ sections:
 
   #--------------------------------------------------------
   
-  #- block: experience
-  #  content:
-  #    title: Experience
-  #    # Date format for experience
-  #    #   Refer to https://wowchemy.com/docs/customization/##date-format
-  #    date_format: Jan 2006
-  #    # Experiences.
-  #    #   Add/remove as many `experience` items below as you like.
-  #    #   Required fields are `title`, `company`, and `date_start`.
-  #    #   Leave `date_end` empty if it's your current employer.
-  #    #   Begin multi-line descriptions with YAML's `|2-` #multi-line prefix.
-  #    items:
-  #      - title: CEO
-  #        company: GenCoin
-  #        company_url: ''
-  #        company_logo: org-gc
-  #        location: California
-  #        date_start: '2021-01-01'
-  #        date_end: ''
-  #        description: |2-
-  #            Responsibilities include:
-#
-  #            * Analysing
-  #            * Modelling
-  #            * Deploying
-  #      - title: Professor of Semiconductor Physics
-  #        company: University X
-  #        company_url: ''
-  #        company_logo: org-x
-  #        location: California
-  #        date_start: '2016-01-01'
-  #        date_end: '2020-12-31'
-  #        description: Taught electronic engineering and researched #semiconductor physics.
-  #  design:
-  #    columns: '2'
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/##date-format
+      date_format: 'Jan 2, 2006'
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` #multi-line prefix.
+      items:
+      
+        - title: Tenured track associated professor in Physics of matter
+          company: Università degli studi di Palermo
+          company_url: ''
+          company_logo: unimi
+          #location: California
+          date_start: '2018-01-01'
+          date_end: ''
+
+        - title: Postdoctoral researcher
+          company: Università degli studi di Milano
+          company_url: ''
+          company_logo: unimi
+          #location: California
+          date_start: '2016-01-01'
+          date_end: '2017-01-01'
+          
+        - title: Postdoctoral researcher
+          company: Università della Calabria
+          company_url: ''
+          company_logo: unimi
+          #location: California
+          date_start: '2015-01-01'
+          date_end: '2016-01-01'
+          description:
+          
+        - title: Postdoctoral researcher
+          company: Università degli studi di Palermo
+          company_url: ''
+          company_logo: unimi
+          #location: California
+          date_start: '2013-01-01'
+          date_end: '2015-01-01'
+          description:
+    design:
+      columns: '2'
 
 #--------------------------------------------------------
 
@@ -139,14 +152,12 @@ sections:
   #    subtitle: A subtitle
   #    text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 #--------------------------------------------------------
-
-
   - block: portfolio
-    id: Research 
+    id: research-about
     content:
       title: Research Lines
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      subtitle: 
+      text: 
       filters:
         # Folders to display content from
         folders:
@@ -173,16 +184,16 @@ sections:
       #buttons:
       #  - name: All
       #    tag: '*'
-      #  - name: Quantum 
-      #    tag: Deep Learning
-      #  - name: Other
-      #    tag: Demo
+      #  - name: OQS 
+      #    tag: OQS
+      #  - name: QT
+      #    tag: QT
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose a listing view
-      view: showcase
+      view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
 
@@ -192,7 +203,7 @@ sections:
     id: posts
     content:
       title: Recent Posts
-      subtitle: ''
+      subtitle: ([complete list](./post/))
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
@@ -214,10 +225,10 @@ sections:
     design:
       columns: '1'
       view: compact
-      background:
-          gradient_end: '#6198a4'
-          gradient_start: '#004ba0'
-          text_color_light: true
+      #background:
+      #    gradient_end: '#6198a4'
+      #    gradient_start: '#004ba0'
+      #    text_color_light: true
   
 #--------------------------------------------------------
 
@@ -236,14 +247,17 @@ sections:
     id: featured
     content:
       title: Featured Publications
-      subtitle: ([complete list](./publication/))
+      subtitle: ([See all](./publication/))
       filters:
         folders:
           - publication
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: masonry
+
+#--------------------------------------------------------
+
   - block: collection
     content:
       id: recent

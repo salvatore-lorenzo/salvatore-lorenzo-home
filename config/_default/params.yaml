@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: tury
-  theme_night: 
+  theme_day: Minimal
+  theme_night: Minimal
   font: Minimal
   font_size: L
   dark_mode: auto
@@ -36,7 +36,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: true
     highlight_active_link: true
   #image: "/headers/header_pubs.jpg"

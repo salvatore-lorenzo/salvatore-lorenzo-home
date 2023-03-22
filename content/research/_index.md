@@ -1,14 +1,14 @@
 ---
 title: Research Liness
-type: landing
+#'type: landing
 
 sections:
   - block: portfolio
-    id: research
+    id: research-page
     content:
-      title: Research
-      subtitle: My 
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: 
+      subtitle: 
+      text: 
       filters:
         # Folders to display content from
         folders:
@@ -21,7 +21,7 @@ sections:
         kinds:
           - page
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
+      sort_by: 'Title'
       sort_ascending: false
       # Default portfolio filter button
       # 0 corresponds to the first button below and so on
@@ -35,16 +35,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: OQS
+          tag: OQS
+        - name: QT
+          tag: QT
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
       # Choose a listing view
-      view: showcase
+      view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
 ---
