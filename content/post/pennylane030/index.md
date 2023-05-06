@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Pennylane 0.29"
+title: "Pennylane 0.30"
 subtitle: ""
 summary: ""
 authors: []
