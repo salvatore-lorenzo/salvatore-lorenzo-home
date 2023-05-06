@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Pennylane 0.30"
+title: "Pennylane030b"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2023-05-07T22:56:43+01:00
-lastmod: 2023-05-07T22:56:43+01:00
+date: 2023-05-07T01:11:16+02:00
+lastmod: 2023-05-07T01:11:16+02:00
 featured: false
 draft: false
 
@@ -28,4 +28,3 @@ image:
 projects: []
 ---
 {{< og-summary "https://pennylane.ai/blog/2023/05/pennylane-v030-released/" >}}
-
