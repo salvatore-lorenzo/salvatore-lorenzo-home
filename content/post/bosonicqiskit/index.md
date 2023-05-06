@@ -29,5 +29,3 @@ image:
 projects: []
 ---
 {{< og-summary "https://medium.com/qiskit/introducing-bosonic-qiskit-a-package-for-simulating-bosonic-and-hybrid-qubit-bosonic-circuits-1e1e528287bb" >}}
-
-https://pennylane.ai/blog/2023/03/pennylane-v029-released/
