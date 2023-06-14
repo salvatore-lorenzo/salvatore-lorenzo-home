@@ -10,13 +10,13 @@ authors:
 - Ivan Palmisano
 - Alessandro Ferraro
 - Mauro Paternostro
-- Gioacchino Massimo Palma
+- G. Massimo Palma
 tags:
 - Quantum Physics
 categories: []
-date: '2022-10-01'
-lastmod: 2023-03-16T16:26:02+01:00
-featured: false
+date: '2023-05-01'
+lastmod: 2023-06-14T09:22:16+02:00
+featured: True
 draft: false
 
 # Featured image
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-16T15:26:01.849998Z'
+publishDate: '2023-06-14T07:22:16.614152Z'
 publication_types:
-- '3'
+- '2'
 abstract: Quantum reservoir computers (QRC) and quantum extreme learning machines
   (QELM) aim to efficiently post-process the outcome of fixed -- generally uncalibrated
   -- quantum devices to solve tasks such as the estimation of the properties of quantum
@@ -50,9 +50,9 @@ abstract: Quantum reservoir computers (QRC) and quantum extreme learning machine
   way to a more thorough understanding of the capabilities and limitations of both
   QELMs and QRCs, and has the potential to become a powerful measurement paradigm
   for quantum state estimation that is more resilient to noise and imperfections.
-publication: '*arXiv*'
-doi: 10.48550/arXiv.2210.00780
+publication: '*Communications Physics*'
+doi: 10.1038/s42005-023-01233-w
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/arXiv:2210.00780
+  url: https://arxiv.org/abs/2210.00780
 ---
